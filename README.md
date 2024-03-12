@@ -20,5 +20,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="html" width="60" height="60"/>
 <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="html" width="60" height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="60" height="60"/>
 </p>
 </div>

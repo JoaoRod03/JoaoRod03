@@ -7,7 +7,7 @@
 ##  Languages and Tools:
 
 <p align="center">
-  <img width="276" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRod03&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
+  <img width="276" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRod03&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" >
 </p>
 
 
